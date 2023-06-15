@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * main - print the size of various types
+ * main - lñjskjf
  *
  * Description: print the size of various types in the computer
  *
