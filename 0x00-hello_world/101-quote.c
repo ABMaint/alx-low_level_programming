@@ -1,12 +1,12 @@
 #include<stdio.h>
 #include<unistd.h>
 /**
-* main-101
-*
-* desc
-*
-*return: Always 1 (Succes) 
-*/
+ *main - print quote
+ *
+ *desc
+ *
+ *return: Always 1 (Succes)
+ */
 
 int main(void)
 {
