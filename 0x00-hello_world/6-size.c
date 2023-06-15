@@ -1,10 +1,10 @@
 #include<stdio.h>
 /**
- * main - size
+ * main - print the size of various types
  *  
- * Description: ujodknfh
+ * Description: print the size of various types in the computer
  *
- * Return: lñjsklg
+ * Return: Always 0 (Success)
  */
 
 int main(void)
@@ -15,4 +15,4 @@ printf("Size of a long int: %d byte(s)\n", (int) sizeof(long int));
 printf("Size of a long long int: %d byte(s)\n", (int) sizeof(long long int));
 printf("Size of a float: %d byte(s)\n", (int) sizeof(float));
 return (0);
-}    
+}
