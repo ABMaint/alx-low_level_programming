@@ -1,7 +1,11 @@
 #include<stdio.h>
 /**
-*descp main ......
-*/
+ * main - fhfk
+ *
+ * Description: kjshjgf
+ *
+ * Return: khjnhdf
+ */
 int main(void)
 {
 printf("with proper grammar, but the outcome is a piece of art,\n");
