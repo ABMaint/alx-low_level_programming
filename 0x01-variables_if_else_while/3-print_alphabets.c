@@ -1,17 +1,11 @@
 #include <stdio.h>
 
-/**                                                                                                                                        \
-                                                                                                                                            
- * main - jhskjf                                                                                                                           \
-                                                                                                                                            
- *                                                                                                                                         \
-                                                                                                                                            
- * Description: klhlghlkfgd                                                                                                                \
-                                                                                                                                            
- *                                                                                                                                         \
-                                                                                                                                            
- * Return: jhlafhlkf                                                                                                                       \
-                                                                                                                                            
+/**
+ * main - lkhkjhf
+ *
+ * Description: kjhkjf
+ * 
+ * Return: kjhgkjgkjf
  */
 
 int main(void)
