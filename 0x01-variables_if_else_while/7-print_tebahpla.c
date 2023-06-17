@@ -3,11 +3,10 @@
 /**
  * main - jhskj
  *
- * Description : jkhnjkfnfd
+ * Description: jkhnjkfnfd
  *
- * Return : khjdkshdks
+ * Return: 0 is allways a success
  */
-
 int main(void)
 {
 int i = 122;
