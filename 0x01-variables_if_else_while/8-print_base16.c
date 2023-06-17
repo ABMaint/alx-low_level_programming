@@ -13,7 +13,7 @@ int main(void)
 int i = 0;
 
 while(i<48)
-{y
+{
 if(i<10)
 putchar(i + '0');
 else if(i<41)
