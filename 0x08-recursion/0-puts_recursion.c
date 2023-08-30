@@ -1,7 +1,7 @@
 #include"main.h"
 #include<stdio.h>
 /**
- * hjhjsfj - lkjlfj
+ * _puts_recursion(char *s) hjhjs lkjlfj
 */
 void _puts_recursion(char *s)
 {
