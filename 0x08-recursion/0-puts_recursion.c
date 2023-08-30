@@ -1,12 +1,6 @@
 #include"main.h"
 #include<stdio.h>
-/**
- * main - ljfkñjf
- *
- * Description: hjf
- *
- * Return: jikfj
- */
+// DEFINITION OF THE FUNCTION
 void _puts_recursion(char *s)
 {
 char s[];
